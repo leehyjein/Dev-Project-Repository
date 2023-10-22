@@ -1,2 +1,1 @@
-# Dev-Project-Repository
-.
+# Dev-Project-Repositor
